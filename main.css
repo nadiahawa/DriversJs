@@ -1,0 +1,10 @@
+#yeardrop{
+    color: rgb(2, 2, 7);
+    font-size: large;
+    border-color: darkblue;
+    background-color: aqua;
+}
+
+#title{
+    margin-left: 30%;
+}
